@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-03-31
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Our paper [Graph Enhanced BERT for Query Understanding](https://arxiv.org/pdf/2204.06522.pdf) accepted at **SIGIR 2023**!
