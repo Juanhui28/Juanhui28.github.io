@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 Juanhui Li is a PhD student in the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University, under the supervision of [Dr. Jiliang Tang](http://www.cse.msu.edu/~tangjili/). She got a Master degree in Computer Science and technology in 2020 from Sun Yat-sen University (SYSU).
 
-Her current research interests include graph mining such as link prediction and knowledge graph. She's also interested in integrating language models with graphs.
+Her current research interests include graph mining such as link prediction and knowledge graph. She's also interested in integrating language models with graphs. Feel free to contact me!
 
 
 
