@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching assistant
+title: teaching
 description: 
 nav: true
 nav_order: 5
@@ -11,5 +11,5 @@ nav_order: 5
 
 Organize your courses by years, topics, or universities, however you like! -->
 
-- Fall 2022: **CSE 440 Introduction to Artificial Intelligence**, Department of Computer Science and Engineering, Michigan State University
-- Spring 2023: **CSE 320 Computer Organization and Architecture**,  Department of Computer Science and Engineering, Michigan State University
+- Fall 2022: teaching assistant of **CSE 440 Introduction to Artificial Intelligence**, Department of Computer Science and Engineering, Michigan State University
+- Spring 2023: teaching assistant of **CSE 320 Computer Organization and Architecture**,  Department of Computer Science and Engineering, Michigan State University
