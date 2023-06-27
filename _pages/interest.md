@@ -8,10 +8,10 @@ nav_order: 5
 ---
 
 - I love cats!! They are my lovely cats:
+<!-- style="zoom: 20%;" -->
 
 <figure>
-<img src="../assets/img/xiaohuli.jpeg" style="zoom: 15%;"/>
+<img src="../assets/img/xiaohuli.jpeg" height='250px'/>
 
-
-<img src="../assets/img/two.jpeg" style="zoom: 20%;"/>
+<img src="../assets/img/two.jpeg" height='250ppx'/>
 </figure>
