@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-24
+date: 2023-10-1
 inline: true
 related_posts: false
 ---
 
-So glad to recevice the NeurIPS scholar award!!
+We have a new preprint paper [Revisiting Link Prediction: A Data Perspective](https://arxiv.org/abs/2310.00793)!
