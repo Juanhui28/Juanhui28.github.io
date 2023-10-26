@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-10-24
+date: 2023-10-17
 inline: true
 related_posts: false
 ---
 
-So glad to recevice the NeurIPS scholar award!!
+We have a new preprint paper [Adaptive Pairwise Encodings for Link Prediction](https://arxiv.org/abs/2310.11009)!
