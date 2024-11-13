@@ -10,8 +10,8 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Department of Computer Science and Engineering, Michigan State University, Michigan, USA
-      year: 2021-present
+      institution: Department of Computer Science and Engineering, Michigan State University, Michigan, USA (remote during 2020-2021 due to Covid-19)
+      year: 2020-present
     
     - title: M.E.
       institution: School of Computer Science and Engineering, Sun Yat-sen University, Guangdong, China
@@ -25,7 +25,15 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Internship
+   - title: Applied Scientist Intern
+      institution: Amazon
+      year: 2024.05-2024.10
+
+    - title: Research Intern
+      institution: Home Depot
+      year: 2023.06-2024.02
+
+    - title: Research Intern
       institution: Baidu Inc., China
       year: 2020-2021
      
@@ -45,9 +53,22 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - ICDM Female Student Award Shortlist Candidate
+
+    - year: 2023
+      items: 
+        - NeurIPS Scholar Award
+    
+     - year: 2022
+      items: 
+        - KDD Travel Award 
     - year: 2022
       items: 
-        - KDD student travel award
+        - WSDM Travel Award
+
+   
 
     # - year: 2029
     #   items: 
