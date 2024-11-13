@@ -3,7 +3,7 @@ layout: page
 permalink: /interests/
 title: Interest & Fun
 description: 
-nav: true
+nav: false
 nav_order: 5
 ---
 
