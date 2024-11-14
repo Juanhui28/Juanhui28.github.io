@@ -11,7 +11,7 @@ nav_order: 1
 
 
 
-<div class="Publications">
+<div class="publications">
 <h1>Preprints</h1>
 
 {% bibliography -f {{ site.scholar.bibliography }} -q @misc* %}
