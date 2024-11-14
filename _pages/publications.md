@@ -8,17 +8,19 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-<div class="Preprints">
-{% bibliography -f {{ site.scholar.bibliography }} -q @misc* %}
-</div>
+
 
 
 <div class="Publications">
+<h1>Preprints</h1>
 
+{% bibliography -f {{ site.scholar.bibliography }} -q @misc* %}
 <!-- {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
-  
+
+
 {% endfor %} -->
+<h1>Publications</h1>
 {% bibliography -f {{ site.scholar.bibliography }} -q @article* %}
 </div>
 
