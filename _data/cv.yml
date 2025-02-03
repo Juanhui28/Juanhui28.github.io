@@ -29,9 +29,9 @@
       institution: Amazon
       year: 2024.05-2024.10
 
-    - title: Research Intern
-      institution: Home Depot
-      year: 2023.06-2024.02
+    # - title: Research Intern
+    #   institution: Home Depot
+    #   year: 2023.06-2024.02
 
     - title: Research Intern
       institution: Baidu Inc., China
