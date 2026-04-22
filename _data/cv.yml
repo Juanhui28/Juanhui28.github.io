@@ -11,20 +11,24 @@
   contents:
     - title: PhD
       institution: Department of Computer Science and Engineering, Michigan State University, Michigan, USA (remote during 2020-2021 due to Covid-19)
-      year: 2020-present
-    
+      year: 2020-2025
+
     - title: M.E.
       institution: School of Computer Science and Engineering, Sun Yat-sen University, Guangdong, China
       year: 2017-2020
-    
+
     - title: B.E.
       institution: School of Computer Science and Engineering, Sun Yat-sen University, Guangdong, China
       year: 2013-2017
-     
+
 
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Applied Scientist
+      institution: Microsoft
+      year: 2025-present
+
     - title: Applied Scientist Intern
       institution: Amazon
       year: 2024.05-2024.10
@@ -36,7 +40,7 @@
     - title: Research Intern
       institution: Baidu Inc., China
       year: 2020-2021
-     
+
     - title: Visiting Student
       institution:  DSE Lab, Michigan State University, Michigan, USA
       year: 2019.10-2019.12
