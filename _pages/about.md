@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Juanhui Li is currently working at Microsoft. She received her PhD degree from the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University in 2025, under the supervision of [Dr. Jiliang Tang](http://www.cse.msu.edu/~tangjili/). She also received a Master degree in Computer Science and Technology in 2020 from Sun Yat-sen University (SYSU).
+Juanhui Li is currently working at Microsoft as a Senior Applied Scientist. She received her PhD degree from the [Data Science and Engineering (DSE) lab](http://dse.cse.msu.edu/) at Michigan State University in 2025, under the supervision of [Dr. Jiliang Tang](http://www.cse.msu.edu/~tangjili/). She also received a Master degree in Computer Science and Technology in 2020 from Sun Yat-sen University (SYSU).
 
 Her research interests include graph mining such as link prediction and knowledge graph. She's also interested in integrating language models with graphs.
 
